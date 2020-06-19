@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hellstellar.retailG_confirm_service.RetailGConfirmServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.566 s - in com.hellstellar.retailG_confirm_service.RetailGConfirmServiceApplicationTests

@@ -1,0 +1,15 @@
+server:
+  port: 9093
+spring:
+  application:
+    name: retailG-estimate-service
+  datasource:
+    url: jdbc:mysql://localhost:3306/estimateDB?createDatabaseIfNotExist=true
+    username: root 
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+  jpa:
+    hibernate:
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+      ddl-auto: update

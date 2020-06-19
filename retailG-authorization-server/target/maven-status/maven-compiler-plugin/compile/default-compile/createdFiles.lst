@@ -1,0 +1,8 @@
+com\hellstellar\retailGauthorizationserver\repository\UserDetailRepository.class
+com\hellstellar\retailGauthorizationserver\models\Role.class
+com\hellstellar\retailGauthorizationserver\models\User.class
+com\hellstellar\retailGauthorizationserver\config\WebSecurityConfiguration.class
+com\hellstellar\retailGauthorizationserver\RetailGAuthorizationServerApplication.class
+com\hellstellar\retailGauthorizationserver\config\AuthorizationServerConfiguration.class
+com\hellstellar\retailGauthorizationserver\models\AuthUserDetail.class
+com\hellstellar\retailGauthorizationserver\service\UserDetailServiceImpl.class
